@@ -1,5 +1,6 @@
 <nav id="navbar">
   <a style="background:black; padding:4px 10px ;" href="#desarit" > Desafios Aritméticos</a>
+  |
   <a style="background:black; padding:4px 10px;" href="#descond"> Desafios Condicionais</a>
 </nav>
 
