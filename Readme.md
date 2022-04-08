@@ -1,35 +1,6 @@
-<style>
-  * {
-    color: white;
-  }
-  nav {
-    background-color: #021036;
-    overflow: hidden;
-    width: 100%;
-    position: absolute;
-    top: 0;
-  }
-  nav a {
-    font-color: white;
-    background: #163689;
-    float: left;
-    display: block;
-    text-align: center;
-    padding: 7px 10px ;
-    text-decooration: none;
-  }
-  nav a:hover {
-    background: #000000;
-  }
-  .tabela {
-    align-text: center;
-
-  }
-</style>
-
 <nav id="navbar">
-  <a href="#desarit"> Desafios Aritméticos</a>
-  <a href="#descond"> Desafios Condicionais</a>
+  <a style="background:black; padding:4px 10px ;" href="#desarit" > Desafios Aritméticos</a>
+  <a style="background:black; padding:4px 10px;" href="#descond"> Desafios Condicionais</a>
 </nav>
 
 <header id="apresent">
