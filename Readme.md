@@ -41,7 +41,7 @@
 
 <div class="tabela" id="descond">
 
-  | Desafios Condicionais | enunciados |
+  | Desafios Condicionais | Enunciados |
   | :-------------------: | :--------: |
   | Exercício 1           | Escreva um programa que faça o computador pensar em um numero inteiro entre 0 e 5 e peça para um usuário tentar adivinhar qual o número que o computador pensou, o programa deverá escrever se o usuário venceu ou não. |
   | Exercício 2           | Escreva um programa que leia a velocidade de um carro, se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado, a multa vai custar R$7,00 para cada km/h a cima do limite. |
