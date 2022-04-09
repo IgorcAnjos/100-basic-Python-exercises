@@ -2,6 +2,7 @@
   <a style="background:black; padding:4px 10px ;" href="#aritmeticas" > Desafios Aritméticos</a>
   |
   <a style="background:black; padding:4px 10px;" href="#condicionais"> Desafios Condicionais</a>
+  |
   <a style="background:black; padding:4px 10px;" href="#condicionaisaninhadas"> Desafios Condicionais</a>
 </nav>
 
