@@ -1,9 +1,11 @@
 <nav id="navbar">
-  <a style="background:black; padding:4px 10px ;" href="#aritmeticas" > Desafios Aritméticos</a>
+  <a style="background:black; padding:4px 10px ;" href="#aritmeticas"> Aritméticos</a>
   |
-  <a style="background:black; padding:4px 10px;" href="#condicionais"> Desafios Condicionais</a>
+  <a style="background:black; padding:4px 10px;" href="#condicionais"> Condicionais</a>
   |
-  <a style="background:black; padding:4px 10px;" href="#condicionaisaninhadas"> Desafios Condicionais</a>
+  <a style="background:black; padding:4px 10px;" href="#condicionaisaninhadas"> Condicionais Aninhadas</a>
+  |
+  <a style="background:black; padding:4px 10px;" href="#dicionarios"> Dicionários</a>
 </nav>
 
 <header id="apresent">
@@ -70,4 +72,18 @@
   | Exercício 8            | Refaça o desafio dos triângulos  acrescentando o recurso de mostrar que tipo de triângulo: equilátero, isósceles e escaleno. |
   | Exercício 9            | Elabore um programa que calcule o valor a ser pago por um produto considerando o seu preço normal e condição de pagamento: A vista dinheiro ou cheque 10% de desconto, A vista no cartão: 5% de desconto, Em até duas vezes no cartão, preço normal, 3x ou mais no cartão com 20% de juros. |
   | Exercício 10           | Crie um programa que faça o computador jogar jokempo com você. |
+</div>
+
+##
+
+<div class="tabela" id="dicionarios">
+
+  | Dicionário | Enunciados |
+  | :--------------------: | :--------: |
+  | Exercício 1| Faça um programa que leia o nome e média de um aluno guardando também a situação em um dicionário. No final mostre o conteúdo da estrutura na tela. |
+  | Exercício 2| Crie um programa onde 4 jogadores joguem um dadoe tenha resultados aleatórios. Guarde esses resultados em um dicionário. No final coloque esse dicionário em ordem sabendo que o vencedor tirou o maior número. |
+  | Exercício 3| Crie um programa que leia o nome, ano de nascimento e carteira de trabalho e cadastre-os (com idade) em um dicionário se por acaso a CTPS for diferente de zero, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos ela vai se aposentar. |
+  | Exercício 4| Crie um programa que gerencie o aproveitamento de um jopgador de futebol. O programa vai ler o nome e quantas partidas ele jogou depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionáro incluindo o total de gols feitos durante o campeonato. |
+  | Exercício 5| Crie um programa que leira nome, sexo e a idade de vária pessoa, guardando os dados de cada um em um dicionário e todos os dicionário em uma lista. no final mostre A) Quantas pessoas foram cadastradas, B) A média de idade do grupo Uma lista com todas as mulheres D) Uma lista com todas as pessoas com idade acima da média. |
+  | Exercício 6| Aprimore o desafio 93 para que elefuncione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador. |
 </div>
