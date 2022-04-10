@@ -1,4 +1,4 @@
-# Questão 6) Aprimore o desafio 93 para que elefuncione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador
+# Questão 6) Aprimore o desafio 93 para que elefuncione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
 
 AproveitamentoJogador = dict()
 Listageral = list()
